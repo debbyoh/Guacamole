@@ -10,6 +10,6 @@ Contains the instructions for making the recipe
 Steps   | Instructions
 --------|---------------
 1       | Combine Ingredients
-2.      | Enjoy
+2       | Enjoy
 ### Review
 > This is yummy!
